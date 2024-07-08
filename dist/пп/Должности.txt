@@ -1,0 +1,5 @@
+Manager
+Bartender
+Cook/Chef
+Busser
+Waiter/Waitress
